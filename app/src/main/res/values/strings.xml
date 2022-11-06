@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab5prob1</string>
+    <string name="q1">How to declare an immutable variable</string>
+    <string name="q2">If you want Inherit, in Kotlin you have declare the parent class
+with the keyword ________</string>
+    <string-array name="q1_answers">
+        <item>val</item>
+        <item>var</item>
+        <item>final</item>
+    </string-array>
+    <string-array name="q2_answers">
+        <item>extends</item>
+        <item>open</item>
+        <item>Inherits</item>
+    </string-array>
+</resources>
